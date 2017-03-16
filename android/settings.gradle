@@ -1,0 +1,3 @@
+rootProject.name = 'rnd_react_native_auth'
+
+include ':app'
